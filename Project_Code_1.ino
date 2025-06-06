@@ -249,7 +249,7 @@ void loop() {
       else {
         stopMotors();
         delay(1000);
-        delay(1000);
+        moveForward()
         return;
       }
 
