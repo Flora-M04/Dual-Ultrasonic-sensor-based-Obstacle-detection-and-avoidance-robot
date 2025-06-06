@@ -29,11 +29,13 @@ The code is located here:
 | File | Description |
 |------|-------------|
 | [View Arduino Code](Project_Code_1.ino) | Full Arduino code |
-| [`assets/project_report.pdf`](assets/USODAR-project-report.pdf) | Final project report |
-| [`assets/presentation.pptx`](assets/usodar.ppt) | PowerPoint presentation |
-| [`assets/diagram.png`](assets/diagram.png) | System/picture1 |
-| [`assets/diagram.png`](assets/diagram.png) | System/picture2 |
-| [`assets/diagram.png`](assets/diagram.png) | System/picture3 |
+| [View Report](assets/USODAR-project-report.pdf) | Final project report |
+| [View PPT](assets/usodar.ppt) | PowerPoint presentation |
+| [View Block Diagram](assets/diagram.png) | System/picture1 |
+| [View Image 1](assets/diagram.png) | System/picture1 |
+| [View Image 2](assets/diagram.png) | System/picture2 |
+| [View Image 3](assets/diagram.png) | System/picture3 |
+
 
 ---
 
