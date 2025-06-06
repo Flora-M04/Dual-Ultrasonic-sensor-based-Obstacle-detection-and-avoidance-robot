@@ -17,13 +17,6 @@ This project contains the code and design for an autonomous obstacle-avoiding ro
 
 ---
 
-## 🧠 Code
-
-The code is located here:  
-➡️ [`code/Project_Code_1.ino`](code/Project_Code_1.ino)
-
----
-
 ## 📁 Files Included
 
 | File | Description |
