@@ -1,5 +1,14 @@
 # Dual-Ultrasonic-sensor-based-Obstacle-detection-and-avoidance-robot
 
+## 🔌 Hardware List
+- ESP32 Dev Board
+- 2x HC-SR04 Ultrasonic Sensors
+- L298N Motor Driver
+- 4x 100rpm DC motors
+- Servo Motor (SG90 or equivalent)
+- Robot chassis and wheels
+- Battery pack
+
 This project contains the code and design for an autonomous obstacle-avoiding robot using:
 - ESP32 Microcontroller
 - Stepper motor for front-back-left-right scanning
@@ -28,12 +37,4 @@ The code is located here:
 
 ---
 
-## 🔌 Hardware List
-- ESP32 Dev Board
-- 2x HC-SR04 Ultrasonic Sensors
-- Servo motor
-- L298N Motor Driver
-- 4x 100rpm DC motors
-- Servo Motor (SG90 or equivalent)
-- Robot chassis and wheels
-- Battery pack
+
