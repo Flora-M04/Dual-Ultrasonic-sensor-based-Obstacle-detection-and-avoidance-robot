@@ -20,7 +20,7 @@ This project contains the code and design for an autonomous obstacle-avoiding ro
 ## 🧠 Code
 
 The code is located here:  
-➡️ [`code/obstacle_avoidance_robot.ino`](code/obstacle_avoidance_robot.ino)
+➡️ [`code/obstacle_avoidance_robot.ino`](code/Project_Code_1.ino)
 
 ---
 
@@ -28,7 +28,7 @@ The code is located here:
 
 | File | Description |
 |------|-------------|
-| [`code/obstacle_avoidance_robot.ino`](code/USODAR.ino) | Full Arduino code |
+| [`code/obstacle_avoidance_robot.ino`](code/Project_Code_1.ino) | Full Arduino code |
 | [`assets/project_report.pdf`](assets/USODAR-project-report.pdf) | Final project report |
 | [`assets/presentation.pptx`](assets/usodar.ppt) | PowerPoint presentation |
 | [`assets/diagram.png`](assets/diagram.png) | System/picture1 |
