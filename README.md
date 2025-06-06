@@ -21,7 +21,7 @@ This project contains the code and design for an autonomous obstacle-avoiding ro
 ## 📁 Files Included
 
 | File | Description |
-|------|-------------|
+|---------------------------|----------------------------|
 | [View Arduino Code](Project_Code_1.ino) | Full Arduino code |
 | [View Report](assets/USODAR_project_report.pdf) | Final project report |
 | [View PPT](assets/usodar_presentation.pptx) | PowerPoint presentation |
