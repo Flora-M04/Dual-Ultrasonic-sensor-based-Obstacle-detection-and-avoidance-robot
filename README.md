@@ -6,6 +6,7 @@
 - L298N Motor Driver
 - 4x 100rpm DC motors
 - Servo Motor (SG90 or equivalent)
+- IC7805 voltage regulator (mandatory for voltage supply to sensors from voltage source)
 - Robot chassis and wheels
 - Battery pack
 
