@@ -10,12 +10,6 @@
 - Robot chassis and wheels
 - Battery pack
 
-This project contains the code and design for an autonomous obstacle-avoiding robot using:
-- ESP32 Microcontroller
-- Stepper motor for front-back-left-right scanning
-- Dual ultrasonic sensors for front-back scanning when servo at 0 degrees and left-right scanning when servo at 90 degrees
-- DC motors with L298n motor drivers
-
 ---
 
 
