@@ -71,6 +71,7 @@
 
 ---
 
+**At last**
 
 For code and circuit diagram should to be referred. And it is better if we have a prior and good knowledge about all the components going into the model like pin descriptions of ESP-32 and driver circuits, current ratings, etc. It is also important to choose all the components carefully according to requirments.
 
@@ -78,9 +79,6 @@ the major problem we faced:-
 * ESP-32 needs proper 5v supply orelse the entire robot funtioning will be affected.
 * proper BMS attached chargable battery pack is preffered since motors can drain the battery fastly and its cost effective also.
 * the 15 degree coverage of ultrasonic sensor needs to be taken care off.
-
-
----
 
 There is a lot of scope on the robot and several attachment and modifications can be made in the code as well as to the model to bring more productivity out of it (refer problem statements in the ppt attached)
 
